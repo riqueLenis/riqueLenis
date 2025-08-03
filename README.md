@@ -23,6 +23,7 @@ Sou **Desenvolvedor Web e Mobile**, apaixonado por tecnologia, inovação e solu
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
