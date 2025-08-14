@@ -6,11 +6,11 @@ Sou **Desenvolvedor Web e Mobile**, apaixonado por tecnologia, inovação e solu
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvimento Web com foco em front-end e back-end  
-- 📱 Criação de apps mobile com Java e ferramentas híbridas  
-- ⚙️ Experiência com Node.js + Express no back-end, JAVA e Flutter  
-- 🧠 Curioso por natureza e sempre aprendendo algo novo  
-- 🎓 Estudante de Engenharia de Software (formando em breve!)  
+- Desenvolvimento Full Stack  
+- Criação de apps mobile com Java e ferramentas híbridas  
+- Experiência com Node.js + Express no back-end, JAVA e Flutter  
+- Curioso por natureza e sempre aprendendo algo novo  
+- Estudante de Engenharia de Software 8º semestre (formando em breve!)  
 
 ---
 
