@@ -1,20 +1,20 @@
-## Fala devs, me chamo Henrique Lenis!! 👋
+## Hey devs, my name is Henrique Lenis!!
 
-Sou **Desenvolvedor Web e Mobile**, apaixonado por tecnologia, inovação e soluções criativas. Atualmente cursando o **último ano de Engenharia de Software** na **UNIGRAN - Centro Universitário da Grande Dourados**.
-
----
-
-## Sobre mim
-
-- Desenvolvimento Full Stack  
-- Criação de apps mobile com Java e ferramentas híbridas  
-- Experiência com Node.js + Express no back-end, JAVA e Flutter  
-- Curioso por natureza e sempre aprendendo algo novo  
-- Estudante de Engenharia de Software 8º semestre (formando em breve!)  
+I’m a **Full Stack Developer**, passionate about technology, innovation, and creative solutions. I have a degree in **Software Engineering** from **UNIGRAN - Centro Universitário da Grande Dourados**.
 
 ---
 
-## Tecnologias que utilizo
+## About me
+
+- Full Stack development  
+- Mobile app development using Java/Flutter and hybrid tools  
+- Back-end experience with Node.js + Express, Java, and Flutter  
+- Naturally curious and always learning something new  
+- Graduated in Engineering and Software  
+
+---
+
+## Technologies I use
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -38,14 +38,14 @@ Sou **Desenvolvedor Web e Mobile**, apaixonado por tecnologia, inovação e solu
 
 ---
 
-## Redes sociais
+## Social Media
 
-Conecta comigo nas redes:
+Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lenis-5259a2230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![LinkedIn](https://www.linkedin.com/in/henrique-lenis-desenvolvedor/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/henriquelenis)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriquelenis12@gmail.com)  
 
 ---
 
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+> “Success is the sum of small efforts repeated day after day.” – Robert Collier
