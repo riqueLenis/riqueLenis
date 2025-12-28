@@ -31,20 +31,30 @@ I’m a **Full Stack Developer**, passionate about technology, innovation, and c
 
 ---
 
-## GitHub Stats
-
-![riqueLenis GitHub stats](https://github-readme-stats.vercel.app/api?username=riqueLenis&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riqueLenis&layout=compact&theme=radical)
-
----
-
 ## Social Media
 
 Connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/henrique-lenis-desenvolvedor/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lenis-desenvolvedor/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/henriquelenis)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriquelenis12@gmail.com)  
+
+---
+
+## Tech Stack
+
+**Front-end:** React, Next.js, Vue.js, TypeScript, HTML, CSS  
+**Back-end:** Node.js, Express, Java  
+**Mobile:** Android (Java), Flutter  
+**Database:** PostgreSQL, MySQL  
+**Tools:** Git, GitHub, Docker (se usar)
+
+---
+
+## Let’s connect
+
+I’m open to opportunities as a Full Stack Developer.  
+Feel free to reach out!
 
 ---
 
