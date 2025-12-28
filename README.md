@@ -4,7 +4,7 @@ Sou **Desenvolvedor Web e Mobile**, apaixonado por tecnologia, inovação e solu
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - Desenvolvimento Full Stack  
 - Criação de apps mobile com Java e ferramentas híbridas  
@@ -14,7 +14,7 @@ Sou **Desenvolvedor Web e Mobile**, apaixonado por tecnologia, inovação e solu
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## Tecnologias que utilizo
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -31,14 +31,14 @@ Sou **Desenvolvedor Web e Mobile**, apaixonado por tecnologia, inovação e solu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![riqueLenis GitHub stats](https://github-readme-stats.vercel.app/api?username=riqueLenis&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riqueLenis&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Redes sociais
+## Redes sociais
 
 Conecta comigo nas redes:
 
