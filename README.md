@@ -47,7 +47,7 @@ Connect with me:
 **Back-end:** Node.js, Express, Java  
 **Mobile:** Android (Java), Flutter  
 **Database:** PostgreSQL, MySQL  
-**Tools:** Git, GitHub, Docker (se usar)
+**Tools:** Git, GitHub, Docker
 
 ---
 
