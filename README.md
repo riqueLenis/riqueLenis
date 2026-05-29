@@ -1,61 +1,88 @@
-## Hey devs, my name is Henrique Lenis!!
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EAF3FF,50:CFE8FF,100:90CAF9&text=Henrique%20Lenis&fontSize=62&fontColor=0D47A1&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20•%20Java%20%26%20Backend&descAlignY=60"/>
+</div>
 
-I’m a **Full Stack Developer**, passionate about technology, innovation, and creative solutions. I have a degree in **Software Engineering** from **UNIGRAN - Centro Universitário da Grande Dourados**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=1565C0&center=true&vCenter=true&width=980&lines=Engenheiro+de+Software+formado+pela+Unigran;Apaixonado+por+Java+e+Backend;Construindo+APIs+escalaveis+e+sistemas+robustos"/>
+</div>
 
----
-
-## About me
-
-- Full Stack development  
-- Mobile app development using Java/Flutter and hybrid tools  
-- Back-end experience with Node.js + Express, Java, and Flutter  
-- Naturally curious and always learning something new  
-- Graduated in Engineering and Software  
-
----
-
-## Technologies I use
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-ATIVO-1E88E5?style=for-the-badge&labelColor=E3F2FD"/>
+  <img src="https://img.shields.io/badge/FOCO-JAVA%20%26%20BACKEND-1976D2?style=for-the-badge&labelColor=E3F2FD"/>
+  <img src="https://img.shields.io/badge/STACK-MODERNA-0D47A1?style=for-the-badge&labelColor=E3F2FD"/>
+</div>
 
 ---
 
-## Social Media
+# Sobre mim
 
-Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lenis-desenvolvedor/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/henriquelenis)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriquelenis12@gmail.com)  
+Sou **Henrique Lenis**, formado em **Engenharia de Software pela Unigran**.
+Tenho grande paixao por **Java** e desenvolvimento **Backend**, criando solucoes escaláveis, APIs bem estruturadas e sistemas orientados a boas práticas.
 
 ---
 
-## Tech Stack
+# Skills
 
-**Front-end:** React, Next.js, Vue.js, TypeScript, HTML, CSS  
-**Back-end:** Node.js, Express, Java  
-**Mobile:** Android (Java), Flutter  
-**Database:** PostgreSQL, MySQL  
-**Tools:** Git, GitHub, Docker
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,ts,js,spring,quarkus,vue,rails,react,git,github&perline=6"/>
+</div>
 
 ---
 
-## Let’s connect
+# Perfil Tecnico
 
-I’m open to opportunities as a Full Stack Developer.  
-Feel free to reach out!
+```yaml
+nome: Henrique Lenis
+formacao: Engenharia de Software (Unigran)
+especialidade: Backend
+paixao: Java
+
+stack_principal:
+  - Java
+  - Spring Boot
+  - Quarkus
+  - PHP
+  - TypeScript
+  - JavaScript
+  - Vue.js
+  - Ruby on Rails
+  - React
+  - Git
+  - GitHub
+
+objetivo:
+  Desenvolver sistemas robustos, performáticos e escaláveis,
+  com foco em qualidade de codigo e arquitetura backend.
+```
 
 ---
 
-> “Success is the sum of small efforts repeated day after day.” – Robert Collier
+# Estatisticas GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riqueLenis&show_icons=true&theme=default&title_color=1565C0&icon_color=1976D2&text_color=0D47A1&bg_color=FFFFFF&border_color=BBDEFB"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=riqueLenis&theme=default&ring=1565C0&fire=1E88E5&currStreakLabel=0D47A1&background=FFFFFF&border=BBDEFB"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riqueLenis&bg_color=FFFFFF&color=1565C0&line=1E88E5&point=0D47A1&hide_border=true"/>
+</div>
+
+---
+
+# Contato
+
+<div align="center">
+  <a href="mailto:henriquelenis12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/riqueLenis">
+    <img src="https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EAF3FF,50:CFE8FF,100:90CAF9"/>
+</div>
