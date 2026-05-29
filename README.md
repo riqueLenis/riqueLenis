@@ -16,8 +16,8 @@
 
 # Sobre mim
 
-Sou **Henrique Lenis**, formado em **Engenharia de Software pela Unigran**.
-Tenho grande paixao por **Java** e desenvolvimento **Backend**, criando solucoes escaláveis, APIs bem estruturadas e sistemas orientados a boas práticas.
+Me chamo **Henrique Lenis**, formado em **Engenharia de Software pela Unigran**.
+Tenho grande paixao por **Java** e desenvolvimento **Backend**, criando soluções escaláveis, APIs bem estruturadas e sistemas orientados a boas práticas.
 
 ---
 
@@ -51,7 +51,7 @@ stack_principal:
   - GitHub
 
 objetivo: Desenvolver sistemas robustos, performáticos e escaláveis,
-  com foco em qualidade de codigo e arquitetura backend.
+  com foco em qualidade de código e arquitetura backend.
 ```
 
 ---
