@@ -29,7 +29,7 @@ Tenho grande paixao por **Java** e desenvolvimento **Backend**, criando soluçõ
 
 ---
 
-# Perfil Tecnico
+# Perfil Técnico
 
 ```yaml
 nome: Henrique Lenis
@@ -56,7 +56,7 @@ objetivo: Desenvolver sistemas robustos, performáticos e escaláveis,
 
 ---
 
-# Estatisticas GitHub
+# Estatísticas GitHub
 
 <div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riqueLenis&theme=github"/>
