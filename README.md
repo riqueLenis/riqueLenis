@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EAF3FF,50:CFE8FF,100:90CAF9&text=Henrique%20Lenis&fontSize=62&fontColor=0D47A1&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20•%20Java%20%26%20Backend&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EAF3FF,50:CFE8FF,100:90CAF9&text=Henrique%20Lenis&fontSize=62&fontColor=0D47A1&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20•%20Java%20e%20Backend&descAlignY=60"/>
 </div>
 
 <div align="center">
@@ -50,8 +50,7 @@ stack_principal:
   - Git
   - GitHub
 
-objetivo:
-  Desenvolver sistemas robustos, performáticos e escaláveis,
+objetivo: Desenvolver sistemas robustos, performáticos e escaláveis,
   com foco em qualidade de codigo e arquitetura backend.
 ```
 
