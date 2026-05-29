@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=1565C0&center=true&vCenter=true&width=980&lines=Engenheiro+de+Software+formado+pela+Unigran;Apaixonado+por+Java+e+Backend;Construindo+APIs+escalaveis+e+sistemas+robustos"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=1565C0&center=true&vCenter=true&width=980&lines=Engenheiro+de+Software+formado+pela+Unigran;Apaixonado+por+Java+e+Backend;Construindo+APIs+escaláveis+e+sistemas+robustos"/>
 </div>
 
 <div align="center">
