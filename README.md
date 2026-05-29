@@ -59,12 +59,12 @@ objetivo: Desenvolver sistemas robustos, performáticos e escaláveis,
 # Estatisticas GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riqueLenis&show_icons=true&theme=default&title_color=1565C0&icon_color=1976D2&text_color=0D47A1&bg_color=FFFFFF&border_color=BBDEFB"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riqueLenis&theme=github"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=riqueLenis&theme=default&ring=1565C0&fire=1E88E5&currStreakLabel=0D47A1&background=FFFFFF&border=BBDEFB"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riqueLenis&bg_color=FFFFFF&color=1565C0&line=1E88E5&point=0D47A1&hide_border=true"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riqueLenis&theme=github"/>
 </div>
 
 ---
